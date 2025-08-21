@@ -58,10 +58,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adityakale007/Adityakale007/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Adityakale007/count.svg?"  />
-</div>
-
-###
